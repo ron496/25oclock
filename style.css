@@ -1,0 +1,23 @@
+#editor-container {
+    height: 200px;
+  }
+  
+  #markdown {
+    background-color: #eeffee;
+    min-height: 200px;
+  }
+  
+  #html {
+    background-color: #ffeeee;
+    min-height: 200px;
+  }
+
+
+ol {
+    margin-left: 200px;
+  }
+  
+  #output-markdown {
+    background-color: #ffeeff;
+    min-height: 200px;
+  }
